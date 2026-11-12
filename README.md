@@ -24,3 +24,11 @@ AI Engineer working at a fertilizer company tasked with building a land classifi
 ## File names
 
 Project lab file names start with a corresponding module number M# and a lab number L#.
+
+## Author
+
+Labs to this IBM course were developed by
+
+[Aman Aggarwal](https://www.linkedin.com/in/aggarwal-aman)
+
+Aman Aggarwal is a PhD working at the intersection of neuroscience, AI, and drug discovery. He specializes in quantitative microscopy and image processing.
